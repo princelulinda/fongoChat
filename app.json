@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "fongochat",
+    "slug": "fongochat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fongochat-high-resolution-logo-transparent1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fongochat-high-resolution-logo-transparent1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1F319D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fongochat-high-resolution-logo-transparent1.png",
+        "backgroundColor": "#1F319D"
+      }
+    },
+    "web": {
+      "favicon": "./assets/fongochat-high-resolution-logo-transparent1.png"
+    }
+  }
+}
